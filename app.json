@@ -1,10 +1,13 @@
 {
   "expo": {
-    "name": "rocket-help",
+    "name": "RocketHelp",
     "slug": "rocket-help",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "y"
+    }
   }
 }
